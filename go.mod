@@ -1,4 +1,4 @@
-module github.com/pxtrickhoxng/go-todo
+module github.com/pxtrickhoxng/simple-s3
 
 go 1.25.6
 
